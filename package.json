@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-exploratory-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "*",
+    "rxjs": "^7.8.1",
+    "typescript": "^5.0.4",
+    "vitest": "^0.31.1"
+  }
+}

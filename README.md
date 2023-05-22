@@ -1,2 +1,9 @@
 # rxjs-exploratory-tests
-exploratory unit tests to validate understanding of observation chains
+
+Exploratory unit tests to validate understanding of observation chains.
+
+```
+pnpm install
+
+pnpm test
+```
